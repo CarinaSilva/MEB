@@ -1,3 +1,3 @@
-# MEB
-Mestrado em Engenharia Biomédica
-Introduction to NGS data Analysis
+#  Mestrado em Engenharia Biomédica
+## Terapia Génica e Farmacogenómica
+### Módulo: Introduction to NGS data Analysis
