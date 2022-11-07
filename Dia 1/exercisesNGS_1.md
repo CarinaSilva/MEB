@@ -46,7 +46,7 @@ This serves to exemplify that most reads in current sequencing machines are like
 
 Consider the following fastQ read and obtain the quality score.
 
-
+![](fig1.png)
 
 
 <br/>
